@@ -1,4 +1,4 @@
 pb_data/
 *_templ.go
 node_modules/
-pocketbase-html
+tmp/
