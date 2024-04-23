@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gobeli/pocketbase-htmx/middleware"
+	"github.com/amdev9/project/middleware"
 	"github.com/labstack/echo/v5"
 	"github.com/pocketbase/pocketbase/core"
 	"github.com/pocketbase/pocketbase/models"

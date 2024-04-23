@@ -1,4 +1,4 @@
-module github.com/gobeli/pocketbase-htmx
+module github.com/amdev9/project
 
 go 1.21.4
 

@@ -2,9 +2,9 @@ package app
 
 import (
 	"github.com/a-h/templ"
+	"github.com/amdev9/project/lib"
+	"github.com/amdev9/project/model"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/gobeli/pocketbase-htmx/lib"
-	"github.com/gobeli/pocketbase-htmx/model"
 	"github.com/labstack/echo/v5"
 	"github.com/pocketbase/pocketbase/apis"
 	"github.com/pocketbase/pocketbase/core"

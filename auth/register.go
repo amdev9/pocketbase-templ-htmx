@@ -2,8 +2,8 @@ package auth
 
 import (
 	"github.com/a-h/templ"
+	"github.com/amdev9/project/lib"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
-	"github.com/gobeli/pocketbase-htmx/lib"
 
 	"github.com/labstack/echo/v5"
 	"github.com/pocketbase/pocketbase/apis"

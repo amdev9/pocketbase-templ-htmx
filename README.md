@@ -1,4 +1,4 @@
-# Pocketbase x HTMX
+# Pocketbase x HTMX x TailwindCSS
 
 This is a small demo on how to use [pocketbase](https://pocketbase.io/) as a framework, with [templ](https://templ.guide/) and [htmx](https://htmx.org/).
 

@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/gobeli/pocketbase-htmx/app"
-	"github.com/gobeli/pocketbase-htmx/auth"
-	"github.com/gobeli/pocketbase-htmx/middleware"
+	"github.com/amdev9/project/app"
+	"github.com/amdev9/project/auth"
+	"github.com/amdev9/project/middleware"
 
 	"github.com/pocketbase/pocketbase"
 	"github.com/pocketbase/pocketbase/core"

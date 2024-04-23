@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/gobeli/pocketbase-htmx/lib"
+	"github.com/amdev9/project/lib"
 	"github.com/labstack/echo/v5"
 	"github.com/pocketbase/pocketbase/apis"
 	"github.com/pocketbase/pocketbase/models"
